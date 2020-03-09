@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PacMan",
+"dataUrl": "PacMan3D.data.unityweb",
+"wasmCodeUrl": "PacMan3D.wasm.code.unityweb",
+"wasmFrameworkUrl": "PacMan3D.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
